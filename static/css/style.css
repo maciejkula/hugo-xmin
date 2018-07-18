@@ -1,8 +1,9 @@
 body {
-  max-width: 800px;
-  margin: auto;
-  padding: 1em;
-  line-height: 1.5em;
+    max-width: 800px;
+    font-size: large;
+    margin: auto;
+    padding: 1em;
+    line-height: 1.5em;
 }
 
 /* header and footer areas */
